@@ -1,3 +1,2 @@
 # hello-world
-Here's a newbie 
-Making new commitments 
+Here's a newbie. Making new commitments 
